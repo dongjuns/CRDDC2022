@@ -9,7 +9,7 @@ conda activate crddc2022
 git clone https://github.com/dongjuns/CRDDC2022.git
 
 cd CRDDC2022
-https://github.com/ultralytics/yolov5.git
+# https://github.com/ultralytics/yolov5.git
 cd yolov5
 pip install -r requirements.txt  # install
 ```
