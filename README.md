@@ -14,7 +14,4 @@ cd yolov5
 pip install -r requirements.txt  # install
 ```
 
-Read the CRDDC_2022.ipynb and follow it.    
-
-And if you need to download the files, use this.    
-<https://drive.google.com/drive/folders/1K61pO8g9TuzZ76QR2TOVUHPsHBc77TLE?usp=sharing>
+Read the RoadDamageDetector2022/CRDDC_2022.ipynb and follow it.    
